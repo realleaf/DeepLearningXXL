@@ -8,3 +8,9 @@ This framework will not be used in comercial. And its function cannot afford eit
 
 ## How to contribute
 For this project, we need more and more enthusiastic people to help make the sub-modules like optimzers and layers and complete the core function of backward. If possible, we hope to develop its visualization better. I always think programming language should not be the block.
+
+## Challenge Python
+Absolutely not! We are not going to beat other framworks or programming languages, which is not our purpose at all. We just find extant frameworks are not easy to modify it layer structure and inner mathematic topology. We need a light and efficient framework to recreate anything we want and need to satisfy our research works. We need it so it is neceaasary!
+
+## Welcome anyone to join
+We need your help!
